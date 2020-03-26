@@ -1,0 +1,5 @@
+---
+Resources:
+  S3BucketResource
+    Type: "AWS::S3::Bucket"
+    Properties: {}
