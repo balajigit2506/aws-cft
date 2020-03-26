@@ -2,4 +2,5 @@
 Resources:
   S3BucketResource:
     Type: "AWS::S3::Bucket"
-    Properties: {}
+    Properties:
+      BucketName: "s3-jenkins-cft-bg2506"
