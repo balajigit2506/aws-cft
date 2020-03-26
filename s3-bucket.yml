@@ -1,5 +1,5 @@
 ---
 Resources:
-  S3BucketResource
+  S3BucketResource:
     Type: "AWS::S3::Bucket"
     Properties: {}
